@@ -10,7 +10,33 @@
         </header>
 
         <main>
+            <div class="container">
 
+                <!-- Searchbox -->
+                <section class="col-xs-12">
+                    <div style="width:100%;height:30em;background-color:red;">Searchbox</div>
+                </section>
+                &nbsp;
+
+                <!-- Databases/LibGuides -->
+                <div class="row">
+                    <!-- LibGuides -->
+                    <section class="col-md-6">
+                        <div style="width:100%;height:15em;background-color:blue;">Research Help</div>
+                    </section>
+
+                    <!-- Databases -->
+                    <section class="col-md-6">
+                        <div style="width:100%;height:15em;background-color:green">Databases</div>
+                    </section>
+                </div>
+                &nbsp;
+
+                <!-- Library News -->
+                <section class="col-xs-12">
+                    <div style="width:100%;height:5em;background-color:yellow">Library News</div>
+                </section>
+            </div>
         </main>
 
         <footer>
