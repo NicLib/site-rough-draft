@@ -14,7 +14,9 @@
 
                 <!-- Searchbox -->
                 <section class="col-xs-12">
-                    <div style="width:100%;height:30em;background-color:red;">Searchbox</div>
+                    <div style="width:100%;height:30em;border:1px solid black;">
+                        <?php include 'searchbox.php'; ?>
+                    </div>
                 </section>
 
                 <!-- Databases/LibGuides -->
@@ -40,5 +42,8 @@
         <footer>
             <?php include 'footer.php' ?>
         </footer>
+
+        <!-- Custom Scripts -->
+        <script src="js/searchbox.js"></script>
     </body>
 </html>
