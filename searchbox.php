@@ -3,10 +3,10 @@
 <!-- Searchbox Tabs -->
 <div class="tabs">
     <div class="tab-links">
-        <a href="#tab1" class="selected"><h2 class=""><br/><span class="tab-label">Tab 1</span></h2></a>
-        <a href="#tab2" class=""><h2 class=""><br/><span class="tab-label">Tab 2</span></h2></a>
-        <a href="#tab3" class=""><h2 class=""><br/><span class="tab-label">Tab 3</span></h2></a>
-        <a href="#tab4" class=""><h2 class=""><br/><span class="tab-label">Tab 4</span></h2></a>
+        <a href="#tab1" class="selected"><h2 class="fas fa-school"><br/><span class="tab-label">Tab 1</span></h2></a>
+        <a href="#tab2" class=""><h2 class="fas fa-book"><br/><span class="tab-label">Tab 2</span></h2></a>
+        <a href="#tab3" class=""><h2 class="far fa-newspaper"><br/><span class="tab-label">Tab 3</span></h2></a>
+        <a href="#tab4" class=""><h2 class="fas fa-video"><br/><span class="tab-label">Tab 4</span></h2></a>
     </div>
 
     <!-- New Searchbox -->
