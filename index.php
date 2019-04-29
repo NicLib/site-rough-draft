@@ -13,7 +13,7 @@
             <div class="container">
 
                 <!-- Searchbox -->
-                <section class="col-xs-12">
+                <section class="col-xs-12 mainBox">
                     <div style="width:100%;height:30em;border:1px solid black;">
                         <?php include 'searchbox.php'; ?>
                     </div>
