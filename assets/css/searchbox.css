@@ -55,7 +55,7 @@
             font-weight:600;
             transition:all linear 0.15s;
             text-decoration:none;
-			color: rgb(0, 0, 0);
+			color: #FFFFFF;
 		}
 
 		.tab-links a.selected h2 {

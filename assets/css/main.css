@@ -1,0 +1,25 @@
+/* Main design templates */
+body{
+    background-color: #FFFFFF;
+}
+
+a{
+    color: #000000;
+    /*text-decoration: underline; -- Removed because the University doesn't use it */
+    font-weight: bold;
+    -webki-transition: all .5s;
+    transition: all .5s;
+}
+
+a:hover{
+    color: #F57920;
+    text-decoration: none;
+}
+
+/* Classes */
+.mainBox{
+    background-image: url('../assets/images/niclib_doors.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: none;
+}

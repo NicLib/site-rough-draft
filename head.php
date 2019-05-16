@@ -8,5 +8,5 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
 <!-- Custom CSS -->
-<link rel="stylesheet" href="css/main.css">
-<link rel="stylesheet" href="css/searchbox.css">
+<link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="assets/css/searchbox.css">
