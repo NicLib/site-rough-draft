@@ -1,3 +1,65 @@
+.searchForm{
+	max-width: 100%;
+}
+
+.searchScope{
+	width: 20%;
+	height: 2.5em;
+	border: .1875em solid var(--au-orange);
+	background-color: var(--au-white);
+	color: var(--au-black);
+	padding-left: 2%;
+	cursor: pointer;
+}
+
+.searchSubmit{
+	width: 5%;
+	height: 2.5em;
+	border: .1875em solid var(--au-orange);
+	background-color: var(--au-orange);
+	color: var(--au-white);
+	-webkit-transition: all .5s;
+    transition: all .5s;
+}
+
+.searchSubmit:hover{
+	background-color: var(--au-white);
+	color: var(--au-orange);
+	cursor: pointer;
+}
+
+.searchTerm{
+	width: 70%;
+	height: 2.5em;
+	border: .1875em solid var(--au-orange);
+	background-color: var(--au-white);
+	color: var(--au-black);
+	padding-left: 2%;
+}
+
+.tab {
+	display:none;
+}
+
+.tab .active {
+	display:block;
+}
+
+.tab-content {
+	max-width: 100%;
+	margin-top: -16em;
+	border-radius:3px;
+	text-align:center;
+}
+
+.tab-label {
+	/*font-size: 16px;*/
+	text-decoration: none;
+	margin: .5em 0;
+	/*font-family: "Source Sans Pro","Myriad Pro","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+	/*color: #FFFFFF;*/
+}
+
 .tab-links {
 	display:block;
 	clear:both;
@@ -8,7 +70,7 @@
 	list-style:none;
 	display:inline-block;
 	text-decoration:none;
-	font-size:2.4em;
+	font-size:2.5em;
 }
 
 .tab-links a {
@@ -30,7 +92,7 @@
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 	display: inline-block;
-	padding: 4em;
+	padding: 4.5em;
 	text-align: center;
 	vertical-align: middle;
 	background-color: rgba(0, 0, 0, .4); /*Allows for darker shade on background image*/
