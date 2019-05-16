@@ -1,5 +1,7 @@
+# Specific to project
 /assets/images/*
 /images/*
 variables.php
 
+# Random files that are unnecessary
 .DS_STORE
