@@ -1,5 +1,6 @@
 /* Main design templates */
 body{
+    max-width: 100%;
     background-color: #FFFFFF;
 }
 
@@ -16,10 +17,55 @@ a:hover{
     text-decoration: none;
 }
 
+footer{
+    margin-bottom: 1em;
+    clear: both;
+}
+
 /* Classes */
+.box{
+    width: 50%;
+    height: 20em;
+    border: 1px solid black;
+    float: left
+}
+
+.box div{
+    width: 100%;
+    height: 100%;
+}
+
+.bottomBox{
+    width: 100%;
+    height: 15em;
+    margin-bottom: 1em;
+    clear: both;
+}
+
+.headerHours{
+    font-size: .75em;
+}
+
+.left{
+    margin-left: 5em;
+    text-align:left;
+    float: left;
+}
+
 .mainBox{
+    width: 100%;
+    height: 40em;
+}
+
+.libSearch{
     background-image: url('../assets/images/niclib_doors.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: none;
+}
+
+.right{
+    margin-right: 5em;
+    text-align: right;
+    float: right;
 }

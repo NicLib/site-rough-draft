@@ -13,28 +13,27 @@
             <div >
 
                 <!-- Searchbox -->
-                <section class="col-xs-12">
-                    <div style="width:100%;height:30em;border:1px solid black;">
+                <section class="mainBox box">
+                    <div style="background-color: #F57920;">
                         <!--<?php #include 'searchbox.php'; ?>-->
+                        Main Box
                     </div>
                 </section>
 
                 <!-- Databases/LibGuides -->
-                <div class="row">
-                    <!-- LibGuides -->
-                    <section class="col-md-6">
-                        <div style="width:100%;height:15em;background-color:blue;">Research Help</div>
-                    </section>
+                <!-- LibGuides -->
+                <section class="box">
+                    <div style="background-color:blue;">Research Help</div>
+                </section>
 
-                    <!-- Databases -->
-                    <section class="col-md-6">
-                        <div style="width:100%;height:15em;background-color:green">Databases</div>
-                    </section>
-                </div>
+                <!-- Databases -->
+                <section class="box">
+                    <div style="background-color:green">Databases</div>
+                </section>
 
                 <!-- Library News -->
-                <section class="col-xs-12">
-                    <div style="width:100%;height:10em;background-color:yellow">Library News</div>
+                <section class="bottomBox box">
+                    <div style="background-color:yellow">Library News</div>
                 </section>
             </div>
         </main>
