@@ -14,9 +14,9 @@
 
                 <!-- Searchbox -->
                 <section class="mainBox box">
-                    <div style="background-color: #F57920;">
-                        <!--<?php #include 'searchbox.php'; ?>-->
-                        Main Box
+                    <div class="libSearch">
+                        <?php include 'searchbox.php'; ?>
+                        <!--Main Box-->
                     </div>
                 </section>
 
@@ -43,6 +43,6 @@
         </footer>
 
         <!-- Custom Scripts -->
-        <script src="js/searchbox.js"></script>
+        <script src="assets/js/searchbox.js"></script>
     </body>
 </html>

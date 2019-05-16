@@ -1,7 +1,8 @@
 # Specific to project
 /assets/images/*
 /images/*
-variables.php
+/assets/variables.php
+/assets/css/searchbox-old.css
 
 # Random files that are unnecessary
 .DS_STORE

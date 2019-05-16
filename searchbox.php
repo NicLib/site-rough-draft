@@ -13,82 +13,72 @@
     <div class="tab-content">
         <div id="tab1" class="tab active">
             <form action="https://anderson.on.worldcat.org/search?" target="_blank" method="GET">
-                <div class="row">
-                    <div class="col-8">
+
                         <label class="sr-only" for="queryString">Search Term</label>
-                        <input placeholder="Search the Nicholson Library Catalog (tab1)" class="form-control form-control-lg" type="text" name="queryString">
-                    </div>
-                    <div class="col-3">
+                        <input placeholder="Search the Nicholson Library Catalog (tab1)" class="" type="text" name="queryString">
+
+
                         <label class="sr-only" for="scope">Library Select</label>
-                        <select class="custom-select form-control form-control-lg" name="scope">
+                        <select class="" name="scope">
                             <option selected value>Libraries Worldwide</option>
                             <option value="<?php echo $oclc_niclib_scope; ?>">Nicholson Library</option>
                         </select>
-                    </div>
-                    <div class="col">
-                        <button class="btn btn-primary btn-lg" type="submit"><i class="fas fa-search"></i></button>
-                    </div>
-                </div>
+
+
+                        <button class="" type="submit"><i class="fas fa-search"></i></button>
+
+
             </form>
         </div>
         <div id="tab2" class="tab">
             <form action="https://anderson.on.worldcat.org/search?" target="_blank" method="GET">
-                <div class="row">
-                    <div class="col-8">
+
+
                         <label class="sr-only" for="queryString">Search Term</label>
-                        <input placeholder="Search the Nicholson Library Catalog (tab2)" class="form-control form-control-lg" type="text" name="queryString">
-                    </div>
-                    <div class="col-3">
+                        <input placeholder="Search the Nicholson Library Catalog (tab2)" class="" type="text" name="queryString">
+
+
                         <label class="sr-only" for="scope">Library Select</label>
-                        <select class="custom-select form-control form-control-lg" name="scope">
+                        <select class="" name="scope">
                             <option selected value>Libraries Worldwide</option>
                             <option value="<?php echo $oclc_niclib_scope; ?>">Nicholson Library</option>
                         </select>
-                    </div>
-                    <div class="col">
+
+
                         <button class="btn btn-primary btn-lg" type="submit"><i class="fas fa-search"></i></button>
-                    </div>
-                </div>
+
             </form>
         </div>
         <div id="tab3" class="tab">
             <form action="https://anderson.on.worldcat.org/search?" target="_blank" method="GET">
-                <div class="row">
-                    <div class="col-8">
+
                         <label class="sr-only" for="queryString">Search Term</label>
-                        <input placeholder="Search the Nicholson Library Catalog (tab3)" class="form-control form-control-lg" type="text" name="queryString">
-                    </div>
-                    <div class="col-3">
+                        <input placeholder="Search the Nicholson Library Catalog (tab3)" class="" type="text" name="queryString">
+
                         <label class="sr-only" for="scope">Library Select</label>
-                        <select class="custom-select form-control form-control-lg" name="scope">
+                        <select class="" name="scope">
                             <option selected value>Libraries Worldwide</option>
                             <option value="<?php echo $oclc_niclib_scope; ?>">Nicholson Library</option>
                         </select>
-                    </div>
-                    <div class="col">
+
                         <button class="btn btn-primary btn-lg" type="submit"><i class="fas fa-search"></i></button>
-                    </div>
-                </div>
+
             </form>
         </div>
         <div id="tab4" class="tab">
             <form action="https://anderson.on.worldcat.org/search?" target="_blank" method="GET">
-                <div class="row">
-                    <div class="col-8">
+
                         <label class="sr-only" for="queryString">Search Term</label>
-                        <input placeholder="Search the Nicholson Library Catalog (tab4)" class="form-control form-control-lg" type="text" name="queryString">
-                    </div>
-                    <div class="col-3">
+                        <input placeholder="Search the Nicholson Library Catalog (tab4)" class="" type="text" name="queryString">
+
                         <label class="sr-only" for="scope">Library Select</label>
-                        <select class="custom-select form-control form-control-lg" name="scope">
+                        <select class="" name="scope">
                             <option selected value>Libraries Worldwide</option>
                             <option value="<?php echo $oclc_niclib_scope; ?>">Nicholson Library</option>
                         </select>
-                    </div>
-                    <div class="col">
+
                         <button class="btn btn-primary btn-lg" type="submit"><i class="fas fa-search"></i></button>
-                    </div>
-                </div>
+
             </form>
         </div>
     </div>

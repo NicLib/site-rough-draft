@@ -2,6 +2,7 @@
 body{
     max-width: 100%;
     background-color: var(--au-white);
+    font-size: 16pt;
 }
 
 a{
@@ -58,7 +59,7 @@ footer{
 }
 
 .libSearch{
-    background-image: url('../assets/images/niclib_doors.jpg');
+    background-image: url('../images/niclib_doors.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: none;
