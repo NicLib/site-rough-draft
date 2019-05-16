@@ -53,11 +53,9 @@
 }
 
 .tab-label {
-	/*font-size: 16px;*/
 	text-decoration: none;
 	margin: .5em 0;
-	/*font-family: "Source Sans Pro","Myriad Pro","Helvetica Neue",Helvetica,Arial,sans-serif;*/
-	/*color: #FFFFFF;*/
+	font-weight: 400;
 }
 
 .tab-links {
@@ -95,6 +93,6 @@
 	padding: 4.5em;
 	text-align: center;
 	vertical-align: middle;
-	background-color: rgba(0, 0, 0, .4); /*Allows for darker shade on background image*/
+	background-color: rgba(0, 0, 0, .5); /*Allows for darker shade on background image*/
 	max-height: 100%;
 }

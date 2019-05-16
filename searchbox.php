@@ -29,55 +29,19 @@
     <div class="tab-content">
         <!-- Tab1: Everything -->
         <div id="tab1" class="tab active">
-            <form class="searchForm" action="https://anderson.on.worldcat.org/search?" target="_blank" method="GET">
-                <label class="sr-only" for="queryString">Search Term</label>
-                <input placeholder="Search the Nicholson Library Catalog (tab1)" class="searchTerm" type="text" name="queryString">
-                <label class="sr-only" for="scope">Library Select</label>
-                <select class="searchScope" name="scope">
-                    <option selected value>Libraries Worldwide</option>
-                    <option value="<?php echo $oclc_niclib_scope; ?>">Nicholson Library</option>
-                </select>
-                <button class="searchSubmit" type="submit"><i class="fas fa-search"></i></button>
-            </form>
+            <?php include 'assets/search-box-tabs/everythingTab.php'; ?>
         </div>
         <!-- Tab2: Books -->
         <div id="tab2" class="tab">
-            <form class="searchForm" action="https://anderson.on.worldcat.org/search?" target="_blank" method="GET">
-                    <label class="sr-only" for="queryString">Search Term</label>
-                    <input placeholder="Search the Nicholson Library Catalog (tab2)" class="searchTerm" type="text" name="queryString">
-                    <label class="sr-only" for="scope">Library Select</label>
-                    <select class="searchScope" name="scope">
-                        <option selected value>Libraries Worldwide</option>
-                        <option value="<?php echo $oclc_niclib_scope; ?>">Nicholson Library</option>
-                    </select>
-                <button class="searchSubmit" type="submit"><i class="fas fa-search"></i></button>
-            </form>
+            <?php include 'assets/search-box-tabs/booksTab.php'; ?>
         </div>
         <!-- Tab3: Articles -->
         <div id="tab3" class="tab">
-            <form class="searchForm" action="https://anderson.on.worldcat.org/search?" target="_blank" method="GET">
-                    <label class="sr-only" for="queryString">Search Term</label>
-                    <input placeholder="Search the Nicholson Library Catalog (tab3)" class="searchTerm" type="text" name="queryString">
-                    <label class="sr-only" for="scope">Library Select</label>
-                    <select class="searchScope" name="scope">
-                        <option selected value>Libraries Worldwide</option>
-                        <option value="<?php echo $oclc_niclib_scope; ?>">Nicholson Library</option>
-                    </select>
-                <button class="searchSubmit" type="submit"><i class="fas fa-search"></i></button>
-            </form>
+            <?php include 'assets/search-box-tabs/articlesTab.php'; ?>
         </div>
         <!-- Tab4: Media -->
         <div id="tab4" class="tab">
-            <form class="searchForm" action="https://anderson.on.worldcat.org/search?" target="_blank" method="GET">
-                    <label class="sr-only" for="queryString">Search Term</label>
-                    <input placeholder="Search the Nicholson Library Catalog (tab4)" class="searchTerm" type="text" name="queryString">
-                    <label class="sr-only" for="scope">Library Select</label>
-                    <select class="searchScope" name="scope">
-                        <option selected value>Libraries Worldwide</option>
-                        <option value="<?php echo $oclc_niclib_scope; ?>">Nicholson Library</option>
-                    </select>
-                <button class="searchSubmit" type="submit"><i class="fas fa-search"></i></button>
-            </form>
+            <?php include 'assets/search-box-tabs/mediaTab.php'; ?>
         </div>
     </div>
 </div>
