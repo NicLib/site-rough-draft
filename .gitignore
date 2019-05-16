@@ -1,3 +1,5 @@
 /assets/images/*
 /images/*
 variables.php
+
+.DS_STORE
