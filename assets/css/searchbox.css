@@ -2,6 +2,10 @@
 	max-width: 100%;
 }
 
+.searchLinks{
+	margin-top: 1em;
+}
+
 .searchScope{
 	width: 20%;
 	height: 2.5em;
@@ -83,6 +87,19 @@
 
 .tab-links a.selected h2 {
    color: var(--au-orange);
+}
+
+.table td{
+	border-top: none;
+}
+
+.table a{
+	color: var(--au-white);
+	transition:all 0.15s;
+}
+
+.table a:hover{
+	color: var(--au-orange);
 }
 
 .tabs {
