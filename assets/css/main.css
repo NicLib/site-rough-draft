@@ -21,6 +21,8 @@ a:hover{
 
 footer{
     margin-bottom: 1em;
+    padding: 1em;
+    border-top: .1em solid var(--au-orange);
     clear: both;
 }
 
@@ -40,14 +42,48 @@ footer{
 .bottomBox{
     width: 100%;
     height: 15em;
-    margin-bottom: 1em;
     clear: both;
 }
 
 .buttonTitle{
-    font-size: 4em;
+    font-size: 3em;
     color: var(--au-white);
     text-shadow: 2px 2px #000000;
+}
+
+.content{
+    margin: 1em auto;
+}
+
+.contentImage{
+    margin: 1em auto;
+}
+
+.contentList{
+    margin: 1em auto;
+}
+
+.contentList dt{
+    border: 1px solid rgba(195, 207, 220, 0.7);
+    padding: 2em;
+    background-color: rgba(195, 207, 220, 0.2);
+}
+
+.contentList dd{
+    padding: 2em;
+    display: none;
+}
+
+.contentTitle{
+    font-weight: bold;
+    font-size: 2em;
+    color: var(--au-orange);
+}
+
+.expand-icon{
+    color: rgba(195, 207, 220, 0.9);
+    float: right;
+    clear:both;
 }
 
 .headerHours{
@@ -60,11 +96,6 @@ footer{
     float: left;
 }
 
-.mainBox{
-    width: 100%;
-    height: 40em;
-}
-
 .libSearch{
     background-image: url('../images/niclib_doors.jpg');
     background-size: cover;
@@ -72,11 +103,21 @@ footer{
     background-repeat: no-repeat;
 }
 
+.mainBox{
+    width: 100%;
+    height: 40em;
+}
+
+.questionGroup{
+    margin: 1em auto;
+}
+
 .right{
     margin-right: 5%;
     text-align: right;
     float: right;
 }
+
 
 /* IDs */
 #databasesBox{
