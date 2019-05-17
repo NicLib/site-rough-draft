@@ -23,12 +23,12 @@
                 <!-- Databases/LibGuides -->
                 <!-- LibGuides -->
                 <section class="box">
-                    <div style="background-color:blue;">Research Help</div>
+                    <a href="https://libguides.anderson.edu" target="_blank"><div id="researchBox"><h2 class="buttonTitle">Research Help</h2></div></a>
                 </section>
 
                 <!-- Databases -->
                 <section class="box">
-                    <div style="background-color:green">Databases</div>
+                    <a href="https://libguides.anderson.edu/az.php" target="_blank"><div id="databasesBox"><h2 class="buttonTitle">Databases</h2></div></a>
                 </section>
 
                 <!-- Library News -->
