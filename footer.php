@@ -1,6 +1,5 @@
-
 <!-- Library Links -->
-<div class="left">
+<div class="left footernav">
     <nav class="nav flex-column">
         <h3>Helpful Library Links</h3>
         <a class="nav-item" href="#">About the Library</a>
@@ -12,7 +11,7 @@
 </div>
 
 <!-- University Links -->
-<div class="right">
+<div class="right footernav">
     <nav class="nav flex-column">
         <h3>University Links</h3>
         <a class="nav-item" href="https://www.anderson.edu" target="_blank">AU Website</a>

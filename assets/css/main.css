@@ -86,6 +86,10 @@ footer{
     clear:both;
 }
 
+.footernav{
+    margin-bottom: 1em;
+}
+
 .headerHours{
     font-size: .5em;
 }
