@@ -1,7 +1,9 @@
 jQuery(document).ready(function($){
+    $('dd').hide();
     $('dt').click(function(){
-        $(this).next().toggleClass('active');
-
+        //Expands FAQ Answers
+        $(this).next().slideToggle('slow');
+        
         //Toggle Plus/Minus icon on FAQ Expansion
         let icon = $(this).find('.expand-icon').children();
 

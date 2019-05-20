@@ -69,14 +69,6 @@ footer{
 }
 
 .contentList dd{
-    display: none;
-}
-
-.contentList dd.active{
-    display: initial;
-}
-
-.contentList dd.active p{
     padding: 2em;
 }
 
