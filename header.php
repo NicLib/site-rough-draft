@@ -14,7 +14,7 @@
                     <a class="dropdown-item" href="ill.php" style="text-decoration: line-through;">Interlibrary Loan</a>
                     <a class="dropdown-item" href="https://libguides.anderson.edu" target="_blank">Research Help</a>
                     <a class="dropdown-item" href="https://libguides.anderson.edu/az.php" target="_blank">Library Databases</a>
-                    <a class="dropdown-item" href="http://anderson.worldcat.org/wcpa/courseReserves?action=courseReserveManager" target="_blank">Reserves for Classes</a>
+                    <a class="dropdown-item" href="https://anderson.on.worldcat.org/courseReserves/landing" target="_blank">Reserves for Classes</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="contact.php" style="text-decoration: line-through;">Contact a Librarian</a>
                 </div>
