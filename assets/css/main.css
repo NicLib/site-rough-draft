@@ -19,10 +19,6 @@ a:hover{
     text-decoration: none;
 }
 
-main{
-    margin: 1em auto;
-}
-
 footer{
     margin-bottom: 1em;
     padding: 1em;
@@ -73,8 +69,15 @@ footer{
 }
 
 .contentList dd{
-    padding: 2em;
     display: none;
+}
+
+.contentList dd.active{
+    display: initial;
+}
+
+.contentList dd.active p{
+    padding: 2em;
 }
 
 .contentTitle{

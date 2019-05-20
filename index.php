@@ -39,10 +39,9 @@
         </main>
 
         <footer>
-            <?php include 'footer.php' ?>
+            <?php include 'footer.php'; ?>
         </footer>
 
-        <!-- Custom Scripts -->
-        <script src="assets/js/searchbox.js"></script>
+        <?php include 'add-js.php'; ?>
     </body>
 </html>

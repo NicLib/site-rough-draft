@@ -16,5 +16,7 @@
         <footer>
             <?php include 'footer.php' ?>
         </footer>
+
+        <?php include 'add-js.php'; ?>
     </body>
 </html>

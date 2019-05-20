@@ -25,12 +25,16 @@
                     <div class="contentList">
                         <dl>
                             <div class="questionGroup">
-                                <dt>Where is NicMedia?</span><span class="expand-icon"><i class="fas fa-plus-circle"></i></span></dt>
-                                <dd>NicMedia is located on the ground floor of the Nicholson Library. Once you enter the library, head straight back and you will see NicMedia. If you would like to see a map, check out the <a href="#">ground-floor floor plan</a> of the library.</dd>
+                                <dt>Where is NicMedia?<span class="expand-icon"><i class="fas fa-plus-circle"></i></span></dt>
+                                <dd>
+                                    <p>NicMedia is located on the ground floor of the Nicholson Library. Once you enter the library, head straight back and you will see NicMedia. If you would like to see a map, check out the <a href="#">ground-floor floor plan</a> of the library.</p>
+                                </dd>
                             </div>
                             <div class="questionGroup">
                                 <dt>What resources and services are available in NicMedia?<span class="expand-icon"><i class="fas fa-plus-circle"></i></span></dt>
-                                <dd>The NicMedia area of the library offers resources such as scanning and high-quality prints; lamination and binding; and digital video and audio editing equipment. Services available in NicMedia include Media duplication and wide-format poster printing.</dd>
+                                <dd>
+                                    <p>The NicMedia area of the library offers resources such as scanning and high-quality prints; lamination and binding; and digital video and audio editing equipment. Services available in NicMedia include Media duplication and wide-format poster printing.</p>
+                                </dd>
                             </div>
                         </dl>
                 </section>
@@ -40,5 +44,7 @@
         <footer>
             <?php include 'footer.php' ?>
         </footer>
+
+        <?php include 'add-js.php'; ?>
     </body>
 </html>

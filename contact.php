@@ -2,7 +2,7 @@
 <html>
     <head>
         <?php include 'head.php'; ?>
-        <title>InterLibrary Loan | Anderson University</title>
+        <title>Contact a Librarian | Anderson University</title>
     </head>
     <body>
         <header>
@@ -16,7 +16,6 @@
         <footer>
             <?php include 'footer.php' ?>
         </footer>
-
         <?php include 'add-js.php'; ?>
     </body>
 </html>
