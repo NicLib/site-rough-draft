@@ -16,7 +16,7 @@
                     <a class="dropdown-item" href="https://libguides.anderson.edu/az.php" target="_blank">Library Databases</a>
                     <a class="dropdown-item" href="https://anderson.on.worldcat.org/courseReserves/landing" target="_blank">Reserves for Classes</a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="contact.php" style="text-decoration: line-through;">Contact a Librarian</a>
+                    <a class="dropdown-item" href="contact.php">Contact a Librarian</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
@@ -32,7 +32,7 @@
                     <a class="dropdown-item" href="http://libproxy.anderson.edu/login?url=http://www.chronicle.com/" target="_blank">The Chronicle of Higher Education</a>
                     <a class="dropdown-item" href="http://libproxy.anderson.edu/login?url=http://www.magnapubs.com/newsletter/the-teaching-professor/" target="_blank">The Teaching Professor</a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="contact.php" style="text-decoration: line-through;">Contact a Librarian</a>
+                    <a class="dropdown-item" href="contact.php">Contact a Librarian</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
@@ -48,7 +48,7 @@
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Floor Plans</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">York Children's Literature Festival</a>
                     <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="contact.php" style="text-decoration: line-through;">Contact a Librarian</a>
+                    <a class="dropdown-item" href="contact.php">Contact a Librarian</a>
                 </div>
             </li>
             <li class="nav-item">
