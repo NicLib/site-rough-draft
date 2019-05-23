@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="index.php"><img src="assets/images/lib-logo-sm.png" alt="Nicholson Library Logo"></a>
-    <a href="#" class="headerHours"><em>open 7:45am - Midnight</em></a>
+    <a href="hours.php" class="headerHours"><em>open 7:45am - Midnight</em></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span> Menu
     </button>
@@ -42,7 +42,7 @@
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Library Staff</a>
-                    <a class="dropdown-item" href="#" style="text-decoration: line-through;">Hours</a>
+                    <a class="dropdown-item" href="hours.php">Hours</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Mission & Vision</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Policies</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Floor Plans</a>
