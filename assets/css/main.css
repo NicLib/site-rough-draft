@@ -30,7 +30,7 @@ footer{
 .box{
     width: 50%;
     height: 20em;
-    float: left
+    float: left;
 }
 
 .box div:first-child{
@@ -78,10 +78,18 @@ footer{
     color: var(--au-orange);
 }
 
+.emailForm{
+    padding: 1em;
+}
+
+.emailForm textarea{
+    height: 11.25em;
+}
+
 .expand-icon{
     color: rgba(195, 207, 220, 0.9);
     float: right;
-    clear:both;
+    clear: both;
 }
 
 .footernav{
@@ -96,6 +104,10 @@ footer{
     margin-left: 5%;
     text-align:left;
     float: left;
+}
+
+.libraryh3lp{
+    padding: 1em;
 }
 
 .libSearch{
@@ -118,6 +130,23 @@ footer{
     margin-right: 5%;
     text-align: right;
     float: right;
+}
+
+.submit-button{
+    background-color: var(--au-orange);
+    color: var(--au-white);
+    font-weight: bold;
+    border: 3px solid var(--au-orange);
+    /*transition: all .5s;*/
+}
+
+.submit-button:hover{
+    /*background-color:var(--au-white);*/
+    color: var(--au-white);
+}*/
+
+.submit-button disabled{
+    cursor: not-allowed;
 }
 
 

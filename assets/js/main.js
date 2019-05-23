@@ -3,7 +3,7 @@ jQuery(document).ready(function($){
     $('dt').click(function(){
         //Expands FAQ Answers
         $(this).next().slideToggle('slow');
-        
+
         //Toggle Plus/Minus icon on FAQ Expansion
         let icon = $(this).find('.expand-icon').children();
 
@@ -13,4 +13,12 @@ jQuery(document).ready(function($){
             icon.removeClass('fa-minus-circle').addClass('fa-plus-circle');
         }
     })
+
+    //Check email form and enable submit button when filled out
+    $('.emailForm textarea').keypress(function(){
+        if($('.emailForm #name').val() != '' && $('.emailForm #email').val() != ''){
+            $('.submit-button').prop('disabled', false);
+        }
+    })
+
 })
