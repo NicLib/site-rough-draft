@@ -119,6 +119,10 @@ footer{
     font-size: .5em;
 }
 
+.job-title{
+    color: var(--au-accent-5);
+}
+
 .left{
     margin-left: 5%;
     text-align:left;
@@ -157,6 +161,31 @@ footer{
     text-align: center;
 }
 
+.staff-img{
+    /* Img must be 232px wide */
+    float: left;
+    clear: both;
+}
+
+.staff-info{
+    margin-top: 2em;
+    padding-left: 2%;
+    float: left;
+}
+
+.staff-info p{
+    font-size: .75em;
+}
+
+.staff-name{
+    color: var(--au-orange);
+    text-transform: uppercase;
+}
+
+.staff-title{
+    color: var(--au-gray);
+}
+
 .submit-button{
     background-color: var(--au-orange);
     color: var(--au-white);
@@ -172,7 +201,7 @@ footer{
     cursor: not-allowed;
 }
 
-.table th{
+.table td, .table th{
     border-top: none;
 }
 

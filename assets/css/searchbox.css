@@ -90,16 +90,16 @@
    color: var(--au-orange);
 }
 
-.table td{
+.searchLinks .table td{
 	border-top: none;
 }
 
-.table a{
+.searchLinks .table a{
 	color: var(--au-white);
 	transition:all 0.15s;
 }
 
-.table a:hover{
+.searchLinks .table a:hover{
 	color: var(--au-orange);
 }
 
