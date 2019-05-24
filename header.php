@@ -41,7 +41,7 @@
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#" style="text-decoration: line-through;">Library Staff</a>
+                    <a class="dropdown-item" href="staff.php">Library Staff</a>
                     <a class="dropdown-item" href="hours.php">Hours</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Mission & Vision</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Policies</a>
