@@ -1,0 +1,53 @@
+@media screen and (max-width: 1141px) {
+    .box {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1055px){
+    .tab-links a {
+        padding: 9px 10px;
+    }
+}
+
+@media screen and (max-width: 1015px){
+    .searchScope{
+        width: 100%;
+        height: 3em;
+        margin: 1em auto;
+    }
+
+    .searchSubmit{
+        width: 100%;
+        height: 3em;
+        margin: 1em auto;
+    }
+
+    .searchTerm{
+        width: 100%;
+        height: 3em;
+        margin: 1em auto;
+    }
+
+    .tab-links a{
+        padding: 9px 5px;
+    }
+}
+
+@media screen and (max-width: 986px){
+    .searchLinks{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 975px){
+    .tab-links a {
+        margin: auto 4%;
+    }
+}
+
+@media screen and (max-width: 703px){
+    .tab-links a{
+        margin: auto 3%;
+    }
+}
