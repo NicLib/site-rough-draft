@@ -40,7 +40,7 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="archives.php">Archives Home Page</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">AU & CHOG Digital Archive</a>
-                    <a class="dropdown-item" href="#" style="text-decoration: line-through;">Finding Aids</a>
+                    <a class="dropdown-item" href="finding-aids.php">Finding Aids</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Research & Copies Information</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="contact.php">Contact a Librarian</a>

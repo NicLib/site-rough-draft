@@ -2,7 +2,7 @@
 <html>
     <head>
         <?php include 'head.php'; ?>
-        <title>Nicholson Library | Anderson University</title>
+        <title>Archives | Anderson University</title>
     </head>
     <body>
         <header>
