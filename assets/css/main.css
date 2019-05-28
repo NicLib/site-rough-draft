@@ -178,6 +178,7 @@ footer{
 }
 
 .staff-name{
+    font-weight: bold;
     color: var(--au-orange);
     text-transform: uppercase;
 }
