@@ -126,7 +126,7 @@
                                 </tr>
                             </tbody>
                         </table>
-                        <h3 class="staff-title">Staff</h3>
+                        <h3 class="staff-title">Professional Staff</h3>
                         <table class="table">
                             <tbody>
                                 <tr>
