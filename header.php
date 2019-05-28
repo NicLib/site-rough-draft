@@ -38,7 +38,7 @@
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Archives</a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#" style="text-decoration: line-through;">Archives Home Page</a>
+                    <a class="dropdown-item" href="archives.php">Archives Home Page</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">AU & CHOG Digital Archive</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Finding Aids</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Research & Copies Information</a>
