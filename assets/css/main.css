@@ -68,8 +68,20 @@ footer{
     margin: 1em auto;
 }
 
+.contentContact{
+    margin-bottom: 1em;
+}
+
+.contentContact h3{
+    color: var(--au-gray);
+}
+
 .contentContent{
     clear: both;
+}
+
+.contentContent p{
+    margin-top: .5em;
 }
 
 .contentImage{
