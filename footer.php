@@ -5,6 +5,7 @@
         <a class="nav-item" href="#">About the Library</a>
         <a class="nav-item" href="#">Library Staff</a>
         <a class="nav-item" href="https://libguides.anderson.edu/az.php" target="_blank">Subject Guides</a>
+        <a class="nav-item" href="contact.php">Contact a Librarian</a>
     </nav>
     &nbsp;
     <p style="font-size:.75em;"><a href="hours.php">open 7:45am - Midnight</a></p>
