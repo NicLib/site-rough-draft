@@ -8,7 +8,7 @@
             <input id="email" type="email" class="form-control" placeholder="your_email@anderson.edu">
         </div>
         <div class="form-group">
-            <textarea class="form-control" placeholder="Message"></textarea>
+            <textarea class="form-control" placeholder="Your message..."></textarea>
         </div>
         <div class="form-group">
             <button class="btn btn-block submit-button" disabled>Send Email</button>
