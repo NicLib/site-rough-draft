@@ -27,23 +27,7 @@
                             </div>
                         </div>
                         <div class="box">
-                            <div class="emailForm">
-                                <h4>Email a Librarian</h4>
-                                <form>
-                                    <div class="form-group">
-                                        <input id="name" type="text" class="form-control" placeholder="Name">
-                                    </div>
-                                    <div class="form-group">
-                                        <input id="email" type="email" class="form-control" placeholder="@anderson.edu">
-                                    </div>
-                                    <div class="form-group">
-                                        <textarea class="form-control" placeholder="Message"></textarea>
-                                    </div>
-                                    <div class="form-group">
-                                        <button class="btn btn-block submit-button" disabled>Send Email</button>
-                                    </div>
-                                </form>
-                            </div>
+                            <?php include 'assets/contact-form.php' ?>
                         </div>
                         <p><em>Not sure how to display calling and texting options</em><p>
                     </div>
