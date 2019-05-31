@@ -46,8 +46,32 @@
     }
 }
 
-@media screen and (max-width: 703px){
+@media screen and (max-width: 786px){
     .tab-links a{
         margin: auto 3%;
+    }
+}
+
+@media screen and (max-width: 761px){
+    .tab-links a{
+        margin: auto 1%;
+    }
+}
+
+@media screen and (max-width: 717px){
+    .tab-label{
+        font-size: .75em;
+    }
+}
+
+@media screen and (max-width: 603px){
+    .tab-links h2{
+        font-size: 2em;
+    }
+}
+
+@media screen and (max-width: 534px){
+    .tab-content{
+        margin-top: -14em;
     }
 }
