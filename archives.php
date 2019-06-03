@@ -73,8 +73,6 @@
                             <h4 class="staff-name">Nic Don Stanton-Roark</h4>
                             <p>
                                 <em><span class="job-title">Archivist</span></em><br/>
-                                BS, Mid-America Christian University<br/>
-                                MTS, Anderson University
                             </p>
                             <div class="staff-contact-info">
                                 <p>

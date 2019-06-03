@@ -38,6 +38,24 @@
                             </div>
                         </dl>
                     </div>
+                    <div class="contentContact">
+                        <h3>Contact</h3>
+                        <div class="staff-img">
+                            <img src="assets/images/staff/Preston_Howell.jpg" alt="Preston Howell, Library Technology Specialist">
+                        </div>
+                        <div class="staff-info">
+                            <h4 class="staff-name">Preston Howell</h4>
+                            <p>
+                                <em><span class="job-title">Library Technology Specialist</span></em><br/>
+                            </p>
+                            <div class="staff-contact-info">
+                                <p>
+                                    <a href="mailto:pshowell@anderson.edu">Email Preston</a><br/>
+                                    Phone: <a href="tel:7656414270">(765) 641-4270</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                 </section>
             </div>
         </main>
