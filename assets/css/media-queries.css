@@ -64,6 +64,16 @@
     }
 }
 
+@media screen and (max-width: 640px){
+    .footernav{
+        text-align: center;
+    }
+
+    .footernav.left, .footernav.right{
+        margin: 1em auto;
+        float: none;
+    }
+}
 @media screen and (max-width: 603px){
     .tab-links h2{
         font-size: 2em;
