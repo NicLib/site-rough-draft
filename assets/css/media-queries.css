@@ -1,12 +1,24 @@
+@media screen and (max-width: 1170px){
+    .tab-links a {
+        padding: 9px 10px;
+    }
+}
+
 @media screen and (max-width: 1141px) {
     .box {
         width: 100%;
     }
 }
 
-@media screen and (max-width: 1055px){
-    .tab-links a {
-        padding: 9px 10px;
+@media screen and (max-width: 1130px){
+    .tab-links a{
+        padding: 9px 5px;
+    }
+}
+
+@media screen and (max-width: 1090px){
+    .tab-links a{
+        margin: auto 5%;
     }
 }
 
