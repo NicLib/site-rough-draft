@@ -92,6 +92,23 @@
     }
 }
 
+@media screen and (max-width: 512px){
+    .contentContact{
+        text-align: center;
+    }
+
+    .contentContact img{
+        margin: auto 50%;
+    }
+
+    .contentContact .staff-info{
+        margin: 1em auto;
+        padding: 0;
+        clear: both;
+        float: none;
+    }
+}
+
 @media screen and (max-width: 534px){
     .tab-content{
         margin-top: -14em;
