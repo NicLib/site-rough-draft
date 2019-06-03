@@ -54,7 +54,7 @@
                                             <li>Early records of the Gospel Trumpet Company</li>
                                         </ul>
                                         <p>
-                                            This collection also includes congregational and regional histories, books written by Church of God authors, books published by Gospel Trumpet Company/Warner Press, Church of God pamphlets, Christian education curriculum, and national and regional periodical such as the <em>Gospel Trumpet<em>.
+                                            This collection also includes congregational and regional histories, books written by Church of God authors, books published by Gospel Trumpet Company/Warner Press, Church of God pamphlets, Christian education curriculum, and national and regional periodical such as the <em>Gospel Trumpet</em>.
                                         </p>
                                         <p>
                                             Because the Church of God is congregational in nature, there are very few records of genealogical interest.
