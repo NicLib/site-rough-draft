@@ -41,6 +41,7 @@ footer{
 .box-hours{
     padding: 1em;
     text-align: center;
+    height: 100%;
 }
 
 .box-hours tfoot{
