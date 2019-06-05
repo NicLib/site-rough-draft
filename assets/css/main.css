@@ -111,6 +111,10 @@ footer{
     text-transform: uppercase;
 }
 
+.dropdown-item {
+    font-size: 1.5em;
+}
+
 .emailForm{
     padding: 1em;
 }
