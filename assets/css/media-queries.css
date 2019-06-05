@@ -22,6 +22,18 @@
     }
 }
 
+@media screen and (max-width: 1087px){
+    .nav-link{
+        padding: .5rem .5rem;
+    }
+}
+
+@media screen and (max-width: 1023px){
+    .nav-link{
+        padding: .5rem .25rem;
+    }
+}
+
 @media screen and (max-width: 1015px){
     .searchScope{
         width: 100%;
@@ -43,6 +55,13 @@
 
     .tab-links a{
         padding: 9px 5px;
+    }
+}
+
+@media screen and (max-width: 991px){
+    .navbar-collapse .nav{
+        display: block;
+        text-align: center;
     }
 }
 

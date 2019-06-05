@@ -9,7 +9,7 @@
         <ul class="nav">
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Student Services</a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <div class="dropdown-menu dropdown-menu-lg-right" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="nicmedia.php">Printing Services</a>
                     <a class="dropdown-item" href="ill.php" style="text-decoration: line-through;">Interlibrary Loan</a>
                     <a class="dropdown-item" href="https://libguides.anderson.edu" target="_blank">Research Help</a>
@@ -21,7 +21,7 @@
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Faculty Support</a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <div class="dropdown-menu dropdown-menu-lg-right" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Reserves Information</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Library Instruction</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Item Purchase</a>
@@ -37,7 +37,7 @@
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Archives</a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <div class="dropdown-menu dropdown-menu-lg-right" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="archives.php">Archives Home Page</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">AU & CHOG Digital Archive</a>
                     <a class="dropdown-item" href="finding-aids.php">Finding Aids</a>
@@ -48,7 +48,7 @@
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <div class="dropdown-menu dropdown-menu-lg-right" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="staff.php">Library Staff</a>
                     <a class="dropdown-item" href="hours.php">Hours</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Mission & Vision</a>
