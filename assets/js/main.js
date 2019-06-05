@@ -21,4 +21,13 @@ jQuery(document).ready(function($){
         }
     })
 
+    //For Mobile navigation
+    $(window).resize(function(){
+        if ($(window).width() < 992){
+            $('.mobile-menu').addClass('navbar-collapse');
+        } else {
+            $('.mobile-menu').removeClass('navbar-collapse');
+        }
+    })
+
 })

@@ -163,6 +163,15 @@ footer{
     height: 40em;
 }
 
+.mobile-menu{
+    text-align: center;
+    display: none;
+}
+
+.mobile-menu li{
+    display: block;
+}
+
 .questionGroup{
     margin: 1em auto;
 }
