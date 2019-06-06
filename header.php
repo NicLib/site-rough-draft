@@ -67,7 +67,7 @@
         </div>
     </div>
     <div class="mobile-menu collapse" id="navbarSupportedContent">
-        <ul class="nav">
+        <ul>
             <li>Student Services</li>
             <li>Faculty Support</li>
             <li>Archives</li>
