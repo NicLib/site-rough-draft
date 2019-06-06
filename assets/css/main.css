@@ -163,6 +163,10 @@ footer{
     height: 40em;
 }
 
+.main-menu{
+    margin-left: 40%;
+}
+
 .mobile-menu{
     text-align: center;
     display: none;
