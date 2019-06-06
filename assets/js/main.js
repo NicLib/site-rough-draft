@@ -29,7 +29,7 @@ jQuery(document).ready(function($){
             $('.mobile-menu').removeClass('navbar-collapse');
         }
     })
-
+    //For when the window starts small
     if ($(window).width() < 992){
         $('.mobile-menu').addClass('navbar-collapse');
     }
