@@ -22,7 +22,7 @@
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Equity Grant</a>
                     <a class="dropdown-item" href="https://illiad.anderson.edu" target="_blank">ILLiad</a>
                     <div class="dropdown-divider"></div>
-                    <h5 class="dropdown-item">Recommended Resources</h5>
+                    <h5 class="dropdown-item"><b>Recommended Resources</b></h5>
                     <a class="dropdown-item" href="http://libproxy.anderson.edu/login?url=http://www.chronicle.com/" target="_blank">The Chronicle of Higher Education</a>
                     <a class="dropdown-item" href="http://libproxy.anderson.edu/login?url=http://www.magnapubs.com/newsletter/the-teaching-professor/" target="_blank">The Teaching Professor</a>
                     <div class="dropdown-divider"></div>
