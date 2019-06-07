@@ -167,15 +167,29 @@ footer{
     margin-left: 40%;
 }
 
+.mobile-child-menu{
+    padding: 1em;
+    list-style: none;
+}
+
+.mobile-child-menu li{
+    padding: 1em;
+}
+
 .mobile-menu{
     text-align: center;
     display: none;
 }
 
-.mobile-menu li{
+.mobile-menu-item{
     font-size: 2em;
     padding: 1em;
     display: block;
+}
+
+.mobile-parent-menu{
+    padding: 0;
+    list-style: none;
 }
 
 .navbar-toggler{

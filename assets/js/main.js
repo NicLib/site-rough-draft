@@ -34,4 +34,18 @@ jQuery(document).ready(function($){
         $('.mobile-menu').addClass('navbar-collapse');
     }
 
+    //For Mobile Navigaion
+    $('.mobile-child-menu').hide();
+    $('.mobile-menu-item').click(function(){
+        $(this).children('.mobile-child-menu').slideToggle();
+
+        //Toggle up/down caret
+        let icon = $(this).find('.menu-expand-icon').children();
+
+        if(icon.hasClass('fa-caret-down')){
+            icon.removeClass('fa-caret-down').addClass('fa-caret-up');
+        } else {
+            icon.removeClass('fa-caret-up').addClass('fa-caret-down');
+        }
+    })
 })
