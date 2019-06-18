@@ -15,3 +15,5 @@
 <link rel="stylesheet" href="assets/css/main.css">
 <link rel="stylesheet" href="assets/css/searchbox.css">
 <link rel="stylesheet" href="assets/css/media-queries.css">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">

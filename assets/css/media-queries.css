@@ -1,6 +1,6 @@
 @media screen and (max-width: 1790px){
     .main-menu{
-        margin-left: 36%
+        margin-left: 36%;
     }
 }
 
@@ -114,9 +114,9 @@
 
 @media screen and (max-width: 991px){
     .headerHours{
-        font-size: 1em;
+        display: none;
     }
-    
+
     .main-menu{
         display: none;
     }
@@ -126,7 +126,7 @@
     }
 
     .navbar-brand img{
-        height: 4em;
+        height: 3em;
     }
 }
 
@@ -161,18 +161,47 @@
 }
 
 @media screen and (max-width: 640px){
-    .footernav{
+    .footernav .left{
+        margin-left: 0;
         text-align: center;
+        float: none;
     }
 
-    .footernav.left, .footernav.right{
-        margin: 1em auto;
+    .footernav .right{
+        margin-right: 0;
+        text-align: center;
         float: none;
     }
 }
+
+@media screen and (max-width: 632px){
+    .buttonTitle{
+        font-size: 2em;
+    }
+}
+
 @media screen and (max-width: 603px){
     .tab-links h2{
         font-size: 2em;
+    }
+}
+
+@media screen and (max-width: 581px){
+    .researchBox, .databasesBox{
+        background-position: center;
+    }
+}
+
+
+@media screen and (max-width: 534px){
+    .tab-content{
+        margin-top: -19em;
+    }
+}
+
+@media screen and (max-width: 517px){
+    .tab-links a{
+        margin: auto;
     }
 }
 
@@ -190,11 +219,5 @@
         padding: 0;
         clear: both;
         float: none;
-    }
-}
-
-@media screen and (max-width: 534px){
-    .tab-content{
-        margin-top: -14em;
     }
 }
