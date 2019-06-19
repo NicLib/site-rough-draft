@@ -59,8 +59,8 @@
 }
 
 @media screen and (max-width: 1130px){
-    .tab-links a{
-        padding: 9px 5px;
+    .tabs{
+        padding: 4.5em 2em;
     }
 }
 
@@ -180,22 +180,9 @@
     }
 }
 
-@media screen and (max-width: 603px){
-    .tab-links h2{
-        font-size: 2em;
-    }
-}
-
 @media screen and (max-width: 581px){
     .researchBox, .databasesBox{
         background-position: center;
-    }
-}
-
-
-@media screen and (max-width: 534px){
-    .tab-content{
-        margin-top: -19em;
     }
 }
 
@@ -219,5 +206,35 @@
         padding: 0;
         clear: both;
         float: none;
+    }
+}
+
+@media screen and (max-width: 439px){
+    .tab-content{
+        margin-top: -16em;
+    }
+}
+
+@media screen and (max-width: 451px){
+    .tabs{
+        padding: 4.5em 1em;
+    }
+}
+
+@media screen and (max-width: 403px){
+    .tabs{
+        padding: 4.5em .5em;
+    }
+}
+
+@media screen and (max-width: 379px){
+    .tabs{
+        padding: 4.5em .25em;
+    }
+}
+
+@media screen and (max-width: 367px){
+    .tab-content{
+        margin-top: -11em;
     }
 }
