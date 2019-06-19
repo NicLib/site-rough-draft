@@ -180,8 +180,8 @@
     }
 }
 
-@media screen and (max-width: 581px){
-    .researchBox, .databasesBox{
+@media screen and (max-width: 569px){
+    #databasesBox, #researchBox{
         background-position: center;
     }
 }
@@ -206,6 +206,12 @@
         padding: 0;
         clear: both;
         float: none;
+    }
+}
+
+@media screen and (max-width: 453px){
+    #researchBox, #databasesBox{
+        padding: 2em 1em;
     }
 }
 
