@@ -154,12 +154,6 @@
     }
 }
 
-@media screen and (max-width: 717px){
-    .tab-label{
-        font-size: .75em;
-    }
-}
-
 @media screen and (max-width: 640px){
     .footernav .left{
         margin-left: 0;
@@ -180,6 +174,12 @@
     }
 }
 
+@media screen and (max-width: 580px){
+    .tab-content{
+        margin-top: -11em;
+    }
+}
+
 @media screen and (max-width: 569px){
     #databasesBox, #researchBox{
         background-position: center;
@@ -197,8 +197,9 @@
         text-align: center;
     }
 
-    .contentContact img{
-        margin: auto 50%;
+    .contentContact .staff-img{
+        width: 100%;
+        margin-bottom: 1em;
     }
 
     .contentContact .staff-info{
@@ -209,9 +210,21 @@
     }
 }
 
+@media screen and (max-width: 467px){
+    .tab-label{
+        font-size: .8em;
+    }
+}
+
 @media screen and (max-width: 453px){
     #researchBox, #databasesBox{
         padding: 2em 1em;
+    }
+}
+
+@media screen and (max-width: 451px){
+    .tab-content{
+        margin-top: -14em;
     }
 }
 
@@ -230,6 +243,12 @@
 @media screen and (max-width: 403px){
     .tabs{
         padding: 4.5em .5em;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .tab-content{
+        margin-top: -11em;
     }
 }
 
