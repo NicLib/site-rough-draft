@@ -21,7 +21,7 @@
                         <table class="table">
                             <tbody>
                                 <tr>
-                                    <td>
+                                    <td class="staff-member">
                                         <div class="staff-img">
                                             <img src="assets/images/staff/Janet_Brewer.jpg" alt="Janet Brewer, Library Director">
                                         </div>
@@ -42,7 +42,7 @@
                                             </div>
                                         </div>
                                     </td>
-                                    <td>
+                                    <td class="staff-member">
                                         <div class="staff-img">
                                             <img src="assets/images/staff/James_Bell.jpg" alt="James Bell, Reference Librarian">
                                         </div>
@@ -63,7 +63,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>
+                                    <td class="staff-member">
                                         <div class="staff-img">
                                             <img src="assets/images/staff/Jeff_Siemon.jpg" alt="Jeff Siemon, Electronic Resources Librarian">
                                         </div>
@@ -83,7 +83,7 @@
                                             </div>
                                         </div>
                                     </td>
-                                    <td>
+                                    <td class="staff-member">
                                         <div class="staff-img">
                                             <img src="assets/images/staff/Christa_Welty.jpg" alt="Christa Welty, Metadata/Reference Librarian">
                                         </div>
@@ -104,7 +104,7 @@
                                     </td>
                                 </tr>
                                 <tr colspan=2>
-                                    <td>
+                                    <td class="staff-member">
                                         <div class="staff-img">
                                             <img src="assets/images/staff/Heather_Myers.jpg" alt="Heather Myers, Public Services Librarian">
                                         </div>
@@ -126,11 +126,12 @@
                                 </tr>
                             </tbody>
                         </table>
+
                         <h3 class="staff-title">Professional Staff</h3>
                         <table class="table">
                             <tbody>
                                 <tr>
-                                    <td>
+                                    <td class="staff-member">
                                         <div class="staff-img">
                                             <img src="assets/images/staff/Lori_Scott.jpg" alt="Lori Scott, Acquisitions">
                                         </div>
@@ -148,7 +149,7 @@
                                             </div>
                                         </div>
                                     </td>
-                                    <td>
+                                    <td class="staff-member">
                                         <div class="staff-img">
                                             <img src="assets/images/staff/Preston_Howell.jpg" alt="Preston Howell, Library Technology Specialist">
                                         </div>
@@ -168,7 +169,7 @@
                                     </td>
                                 </tr>
                                 <tr colspan=2>
-                                    <td>
+                                    <td class="staff-member">
                                         <div class="staff-img">
                                             <img src="assets/images/staff/Nic_Don_Roark.jpg" alt="Nic Don Stanton-Roark, Archivist">
                                         </div>

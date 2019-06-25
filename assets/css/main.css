@@ -183,6 +183,7 @@ footer{
 
 .mobile-menu-item{
     font-size: 1em;
+    font-weight: 600;
     padding: 1em;
     display: block;
 }

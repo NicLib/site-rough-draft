@@ -40,6 +40,13 @@
     }
 }
 
+@media screen and (max-width: 1199px){
+    .staff-info{
+        margin-top: 1em;
+        padding-left: 5%;
+    }
+}
+
 @media screen and (max-width: 1170px){
     .tab-links a {
         padding: 9px 10px;
@@ -186,6 +193,26 @@
     }
 }
 
+@media screen and (max-width: 527px){
+    .staff-info{
+        padding: 0;
+    }
+
+    .staff-img {
+        display: block;
+        width: 100%;
+    }
+
+    .staff-info{
+        display: block;
+        width: 100%;
+    }
+    .staff-member {
+        text-align: center;
+        display: block;
+    }
+}
+
 @media screen and (max-width: 517px){
     .tab-links a{
         margin: auto;
@@ -207,6 +234,12 @@
         padding: 0;
         clear: both;
         float: none;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .contentList dd{
+        padding: 0;
     }
 }
 
