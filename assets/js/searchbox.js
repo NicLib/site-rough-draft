@@ -26,4 +26,14 @@ jQuery(document).ready(function($) {
 	$('#query4').change(function(){
 		$('.searchbox').val($('#query4').val());
 	});
+
+    //Submit search form
+    $('.searchForm').keypress(function(e){
+        if(e.which === 13){
+            e.preventDefault();
+            console.log("Form stopped");
+            $('.searchForm').submit();
+            console.log("Form submitted");
+        }
+    })
 });
