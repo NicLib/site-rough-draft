@@ -1,4 +1,4 @@
-<form class="searchForm" action="https://anderson.on.worldcat.org/search?" target="_blank" method="GET">
+<form class="searchForm" action="https://anderson.on.worldcat.org/search?" target="_blank" method="GET" autocomplete="off">
     <label class="sr-only" for="queryString">Search Term</label>
     <input id="query1" placeholder="Search the Nicholson Library Catalog (Everything Tab)" class="searchTerm searchbox" type="text" name="queryString">
     <input type="hidden" name="databaseList" value="<?php echo $everything_database_list; ?>">
