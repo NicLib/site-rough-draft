@@ -5,13 +5,8 @@ const ARTICLES_FORMAT_STRING = "&format=Artchap&subformat=Artchap%3A%3Aartchap_a
 const DISCOVERY_URL = 'https://anderson.on.worldcat.org/search?sortKey=LIBRARY_PLUS_RELEVANCE'
 
 jQuery(document).ready(function($){
-    //Check JS is loaded
-    console.log("JS Loaded");
-
     $("#catalog-search").submit(function(e){
         e.preventDefault();
-        //Check form submits
-        console.log("form submitted");
 
         let queryString = $(this).children('.input-group').children('#queryString').val();
         let facet = $(this).children('.input-group').children('.input-group-prepend').children('#search-facet').val();
@@ -30,17 +25,6 @@ jQuery(document).ready(function($){
             formats = BOOKS_AND_MEDIA_FORMAT_STRING + ARTICLES_FORMAT_STRING;
         }
 
-        //Check URL
-        console.log(DISCOVERY_URL);
-        //Check search facet is set
-        console.log('search facet = ' + facet);
-        //Check queryString is set
-        console.log("query string = " + queryString);
-        //Check databaseList is set
-        console.log("database list = " + databaseList);
-
         window.open(DISCOVERY_URL + '&databaseList=' + databaseList + '&queryString=' + queryString + formats, '_blank');
-
-        console.log('search performed');
     })
 })
