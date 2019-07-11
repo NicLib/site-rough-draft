@@ -28,12 +28,23 @@ jQuery(document).ready(function($) {
 	});
 
     //Submit search form
-    $('.searchForm').keypress(function(e){
-        if(e.which === 13){
-            e.preventDefault();
-            console.log("Form stopped");
-            $('.searchForm').submit();
-            console.log("Form submitted");
-        }
-    })
+    //$('.searchForm').keypress(function(e){
+    //    if(e.which === 13){
+    //        console.log(e);
+    //
+    //        $('.searchForm').submit(function(f){
+    //            f.preventDefault();
+    //
+    //            let data = {
+    //                url: 'https://anderson.on.worldcat.org/search?',
+    //                queryString: $("input[name='queryString']").val(),
+    //                scope: $("select[name='scope']").val(),
+    //                databaseList: $("input[name='databaseList']").val()
+    //            };
+    //
+    //            console.log(data.url + "\n" + data.queryString + "\n" + data.scope + "\n" + data.databaseList);
+    //            window.open(data.url + 'queryString=' + data.queryString + '&scope=' + data.scope + '&databaseList=' + data.databaseList, '_blank');
+    //        });
+    //    }
+    //})
 });
