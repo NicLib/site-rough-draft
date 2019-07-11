@@ -10,7 +10,7 @@
         </header>
 
         <main>
-            <div >
+            <div>
 
                 <!-- Searchbox -->
                 <section class="mainBox box">

@@ -2,7 +2,24 @@
 
 <!-- Searchbox Tabs -->
 <div class="tabs">
-    
+    <!-- New Searchbox code -->
+    <div class="jumbotron-fluid">
+        <div class="container-fluid">
+            <form id="catalog-search" autocomplete="off">
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <select id="search-facet" class="form-control">
+                            <option selected value="booksmedia">Books & Media</option>
+                            <option value="articles">Articles</option>
+                            <option value="allfmts">All Formats</option>
+                        </select>
+                    </div>
+                    <input name="queryString" id="queryString" type="text" placeholder="Search catalog" class="form-control" aria-label="Text input with dropdown button">
+                    <button type="submit">Search</button>
+                </div>
+            </form>
+        </div>
+    </div>
 
     <!-- Links under Searchbox -->
     <div class="searchLinks">
