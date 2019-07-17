@@ -156,6 +156,8 @@ footer{
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
+    padding-top: 14em;
+    padding-left: 5%;
 }
 
 .mainBox{

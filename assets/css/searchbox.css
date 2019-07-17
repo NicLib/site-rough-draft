@@ -1,93 +1,11 @@
-.searchForm{
-	max-width: 100%;
+#queryString{
+	width: 80%;
 }
 
 .searchLinks{
-	margin-top: 1em;
+	margin: -15em 0 0;
+	text-align: center;
 	text-shadow: 2px 2px #000000;
-}
-
-.searchScope{
-	width: 20%;
-	height: 2.5em;
-	border: .1875em solid var(--au-orange);
-	background-color: var(--au-white);
-	color: var(--au-black);
-	padding-left: 2%;
-	cursor: pointer;
-}
-
-.searchSubmit{
-	width: 5%;
-	height: 2.5em;
-	border: .1875em solid var(--au-orange);
-	background-color: var(--au-orange);
-	color: var(--au-white);
-	-webkit-transition: all .5s;
-    transition: all .5s;
-}
-
-.searchSubmit:hover{
-	background-color: var(--au-white);
-	color: var(--au-orange);
-	cursor: pointer;
-}
-
-.searchTerm{
-	width: 70%;
-	height: 2.5em;
-	border: .1875em solid var(--au-orange);
-	background-color: var(--au-white);
-	color: var(--au-black);
-	padding-left: 2%;
-}
-
-.tab {
-	display:none;
-}
-
-.tab .active {
-	display:block;
-}
-
-.tab-content {
-	max-width: 100%;
-	margin-top: -16em;
-	border-radius:3px;
-	text-align:center;
-}
-
-.tab-label {
-	text-decoration: none;
-	margin: .5em 0;
-	font-weight: 400;
-}
-
-.tab-links {
-	display:block;
-	clear:both;
-	content:'';
-}
-
-.tab-links h2 {
-	list-style:none;
-	display:inline-block;
-	text-decoration:none;
-	font-size:2.5em;
-}
-
-.tab-links a {
-	padding:9px 15px;
-	display:inline-block;
-	border-radius:3px 3px 0px 0px;
-	font-size:1em;
-	transition:all linear 0.15s;
-	text-decoration:none;
-	color: var(--au-white);
-}
-
-.tab-links a.selected h2 {
-   color: var(--au-orange);
 }
 
 .searchLinks .table td{
@@ -103,14 +21,8 @@
 	color: var(--au-orange);
 }
 
-.tabs {
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
-	display: inline-block;
-	padding: 4.5em;
-	text-align: center;
-	vertical-align: middle;
-	background-color: rgba(0, 0, 0, .5); /*Allows for darker shade on background image*/
-	max-height: 100%;
+.search-title {
+	margin-bottom: 1em;
+	color: var(--au-white);
+	text-shadow: 2px 2px 6px var(--au-black);
 }
