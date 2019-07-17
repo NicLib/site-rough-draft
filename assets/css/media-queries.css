@@ -10,6 +10,17 @@
     }
 }
 
+@media screen and (max-width: 1610px){
+    .libSearch{
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+
+    #queryString{
+        width: 75%;
+    }
+}
+
 @media screen and (max-width: 1540px){
     .main-menu{
         margin-left: 25%;
@@ -28,9 +39,21 @@
     }
 }
 
+@media screen and (max-width: 1308px){
+    .libSearch{
+        padding-right: 0;
+    }
+}
+
 @media screen and (max-width: 1274px){
     .main-menu{
         margin-left: 10%;
+    }
+}
+
+@media screen and (max-width: 1267px){
+    #queryString{
+        width: 70%;
     }
 }
 
@@ -89,6 +112,12 @@
     }
 }
 
+@media screen and (max-width: 1061px){
+    #queryString{
+        width: 68%;
+    }
+}
+
 @media screen and (max-width: 1023px){
     .nav-link{
         padding: .5rem .25rem;
@@ -119,6 +148,12 @@
     }
 }
 
+@media screen and (max-width: 997px){
+    #queryString{
+        width: 65%;
+    }
+}
+
 @media screen and (max-width: 991px){
     .headerHours{
         display: none;
@@ -138,6 +173,15 @@
 }
 
 @media screen and (max-width: 986px){
+    #catalog-search button{
+        margin-top: 1em;
+        width: 100%;
+    }
+
+    #queryString{
+        width: 78%;
+    }
+
     .searchLinks{
         display: none;
     }
@@ -146,6 +190,44 @@
 @media screen and (max-width: 975px){
     .tab-links a {
         margin: auto 4%;
+    }
+}
+
+@media screen and (max-width: 961px){
+    #queryString{
+        width: 77%
+    }
+}
+
+@media screen and (max-width: 920px){
+    #queryString{
+        width: 76%;
+    }
+}
+
+@media screen and (max-width: 883px){
+    #queryString{
+        width: 75%;
+    }
+}
+
+@media screen and (max-width: 849px){
+    .libSearch{
+        padding-left: 0;
+        padding-top: 8em;
+    }
+
+    .mainBox{
+        height: 30em;
+    }
+
+    #queryString{
+        width: 100%;
+    }
+
+    #search-facet{
+        margin-bottom: 1em;
+        width: 100%;
     }
 }
 
