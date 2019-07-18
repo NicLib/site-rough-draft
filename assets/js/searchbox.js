@@ -8,8 +8,8 @@ jQuery(document).ready(function($){
     $("#catalog-search").submit(function(e){
         e.preventDefault();
 
-        let queryString = $(this).children('.input-group').children('#queryString').val();
-        let facet = $(this).children('.input-group').children('.input-group-prepend').children('#search-facet').val();
+        let queryString = $(this).children('#queryString').val();
+        let facet = $(this).children('#search-facet').val();
 
         //Database list and formats
         let databaseList = '';
