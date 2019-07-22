@@ -37,6 +37,7 @@
 	background-color: var(--au-orange);
 	color: var(--au-white);
 	font-weight: bold;
+	border-color: var(--au-orange);
 }
 
 .search-title {
