@@ -6,8 +6,8 @@
                 <div class="dropdown-menu dropdown-menu-lg-right" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="nicmedia.php">Printing Services</a>
                     <a class="dropdown-item" href="ill.php" style="text-decoration: line-through;">Interlibrary Loan</a>
-                    <a class="dropdown-item" href="https://libguides.anderson.edu" target="_blank">Research Help</a>
-                    <a class="dropdown-item" href="https://libguides.anderson.edu/az.php" target="_blank">Library Databases</a>
+                    <a class="dropdown-item" href="https://libguides.anderson.edu" target="_blank">Research Guides</a>
+                    <a class="dropdown-item" href="https://libguides.anderson.edu/az.php" target="_blank">Find Articles</a>
                     <a class="dropdown-item" href="https://anderson.on.worldcat.org/courseReserves/landing" target="_blank">Reserves for Classes</a>
                     <div class="dropdown-divider"></div>
                     <h5 class="dropdown-item"><b>Recommended Resources</b></h5>
