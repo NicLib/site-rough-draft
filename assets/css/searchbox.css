@@ -3,7 +3,7 @@
 }
 
 #queryString:focus{
-	border: .2em solid var(--au-orange);
+	border: 2px solid var(--au-orange);
 }
 
 #search-facet{
@@ -11,7 +11,7 @@
 }
 
 #search-facet:focus{
-	border: .2em solid var(--au-orange);
+	border: 2px solid var(--au-orange);
 }
 
 .searchLinks{

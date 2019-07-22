@@ -33,7 +33,7 @@
 
                 <!-- Library News -->
                 <section class="bottomBox box">
-                    <div style="background-color:yellow">Library News</div>
+                    <a href="http://browzine.com/libraries/137/subjects" target="_blank"><div style="background-color:yellow">Browse eJournals</div></a>
                 </section>
             </div>
         </main>
