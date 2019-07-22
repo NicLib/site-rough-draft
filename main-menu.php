@@ -2,7 +2,7 @@
     <div class="justify-content-end">
         <ul class="nav">
             <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Student Services</a>
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Students</a>
                 <div class="dropdown-menu dropdown-menu-lg-right" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="nicmedia.php">Printing Services</a>
                     <a class="dropdown-item" href="ill.php" style="text-decoration: line-through;">Interlibrary Loan</a>
@@ -10,17 +10,20 @@
                     <a class="dropdown-item" href="https://libguides.anderson.edu/az.php" target="_blank">Library Databases</a>
                     <a class="dropdown-item" href="https://anderson.on.worldcat.org/courseReserves/landing" target="_blank">Reserves for Classes</a>
                     <div class="dropdown-divider"></div>
+                    <h5 class="dropdown-item"><b>Recommended Resources</b></h5>
+                    <a class="dropdown-item" href="http://browzine.com/libraries/137/subjects" target="_blank">Browse eJournals</a>
+                    <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="contact.php">Contact a Librarian</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Faculty Support</a>
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Faculty</a>
                 <div class="dropdown-menu dropdown-menu-lg-right" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Reserves Information</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Library Instruction</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Item Purchase</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Equity Grant</a>
-                    <a class="dropdown-item" href="https://illiad.anderson.edu" target="_blank">ILLiad</a>
+                    <a class="dropdown-item" href="https://illiad.anderson.edu" target="_blank">Interlibrary Loan</a>
                     <div class="dropdown-divider"></div>
                     <h5 class="dropdown-item"><b>Recommended Resources</b></h5>
                     <a class="dropdown-item" href="http://libproxy.anderson.edu/login?url=http://www.chronicle.com/" target="_blank">The Chronicle of Higher Education</a>
@@ -49,6 +52,7 @@
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Policies</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Floor Plans</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">York Children's Literature Festival</a>
+                    <a class="dropdown-item" href="http://libguides.anderson.edu/c.php?g=710789" target="_blank">Special Collections</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="contact.php">Contact a Librarian</a>
                 </div>
