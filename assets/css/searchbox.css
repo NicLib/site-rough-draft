@@ -2,6 +2,18 @@
 	width: 80%;
 }
 
+#queryString:focus{
+	border: .2em solid var(--au-orange);
+}
+
+#search-facet{
+	background: var(--au-white);
+}
+
+#search-facet:focus{
+	border: .2em solid var(--au-orange);
+}
+
 .searchLinks{
 	margin: -15em 0 0;
 	text-align: center;
@@ -19,6 +31,12 @@
 
 .searchLinks .table a:hover{
 	color: var(--au-orange);
+}
+
+#search-submit{
+	background-color: var(--au-orange);
+	color: var(--au-white);
+	font-weight: bold;
 }
 
 .search-title {

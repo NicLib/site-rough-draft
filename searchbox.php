@@ -10,7 +10,7 @@
             <option value="allfmts">All Formats</option>
         </select>
         <input name="queryString" id="queryString" class="form-control-lg" type="text" placeholder="Search by Title, Author, Subject or other Keywords" aria-label="Text input with dropdown button">
-        <button type="submit" class="btn-lg">Search</button>
+        <button id="search-submit" type="submit" class="btn-lg">Search</button>
     </form>
 </div>
 
