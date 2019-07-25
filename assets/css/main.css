@@ -263,9 +263,9 @@ footer{
 
 /* IDs */
 #databasesBox{
-    background-image: url('../images/helios-morning-fog.jpg');
+    background-image: url('../images/articles.jpg');
     background-size: cover;
-    background-position: 0% 75%;
+    background-position: 0% 40%;
     background-repeat: no-repeat;
     padding: 2em;
 }
@@ -275,5 +275,13 @@ footer{
     background-size: cover;
     background-position: 100% 90%;
     background-repeat: no-repeat;
+    padding: 2em;
+}
+
+#browzineBox{
+    background-image: url('../images/periodicals.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: 53%;
     padding: 2em;
 }
