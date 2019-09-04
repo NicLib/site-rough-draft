@@ -18,14 +18,31 @@
 
                     <div class="contentContent">
                         <div>
-                            <p><img class="img-fluid" alt="Elizabeth York Children's Literature Festival" data-align="left" data-entity-type="file" data-entity-uuid="04ae7a2c-ac7d-4a12-9e88-da9c8182c4e5" src="assets/images/York-Childrens-Literature-Festival-banner.png" /></p>
+                            <p class="justify-content-center"><img class="img-fluid banner-img" alt="Elizabeth York Children's Literature Festival" data-align="left" data-entity-type="file" data-entity-uuid="04ae7a2c-ac7d-4a12-9e88-da9c8182c4e5" src="assets/images/York-Childrens-Literature-Festival-banner.png" /></p>
                             <div>
                                 <p class="text-align-center">The 2019 Elizabeth York Children's Literature Festival will be held in the <a href="https://map.concept3d.com/?id=1087#!m/222407" target="_blank">Hartung building room 101</a> and is free and open to the public.</p>
                             </div>
                         </div>
 
-                        <div style="clear:both">
-                            <h3 class="york-author-title">2019 Presenters</h3>
+                        <div class="york-presenters">
+                            <h3 class="york-presenters-title">2019 Presenters</h3>
+                            <div class="d-flex justify-content-center">
+                                <div class="york-presenter-profile flex-fill justify-content-center">
+                                    <a href="http://www.shannonisteaching.com" target="_blank"><img alt="Shannon Anderson" src="/drupal/drupal-8/sites/default/files/inline-images/Shannon%20Anderson%202019.png"/></a>
+                                    <h4 class="york-presenter-profile-name"><a href="http://www.shannonisteaching.com" target="_blank">Shannon Anderson</a></h4>
+                                </div>
+                                <div class="york-presenter-profile flex-fill justify-content-center">
+                                    <a href="https://www.noblemania.com" target="_blank"><img alt="Marc Tyler Nobleman" src="/drupal/drupal-8/sites/default/files/inline-images/Marc%20Tyler%20Nobleman.png"/></a>
+                                    <h4 class="york-presenter-profile-name"><a href="https://www.noblemania.com" target="_blank">Marc Tyler Nobleman</a></h4>
+                                </div>
+                                <div class="york-presenter-profile flex-fill justify-content-center">
+                                    <a href="http://christinawald.com" target="_blank"><img alt="Christina Wald" src="/drupal/drupal-8/sites/default/files/inline-images/Christina%20Wald.jpg"/></a>
+                                    <h4 class="york-presenter-profile-name"><a href="http://christinawald.com" target="_blank">Christina Wald</a></h4>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!--<div style="clear:both">
                             <table align="center" cellpadding="5" cellspacing="5">
 	                            <tbody>
 		                            <tr>
@@ -101,7 +118,7 @@
 			                        <td style="text-align: center;">Book Sales and Signings</td>
 		                        </tr>
 	                        </tbody>
-                        </table>
+                        </table>-->
                     </div>
                 </section>
             </div>

@@ -27,6 +27,10 @@ footer{
 }
 
 /* Classes */
+.banner-img{
+    width: 100%;
+}
+
 .box{
     width: 50%;
     height: 20em;
@@ -259,6 +263,19 @@ footer{
 
 .table td, .table th{
     border-top: none;
+}
+
+.york-presenters{
+    text-align: center;
+}
+
+.york-presenters-title {
+    color: var(--au-gray);
+}
+
+.york-presenter-profile-name a{
+    color: var(--au-accent-5);
+    text-transform: uppercase;
 }
 
 
