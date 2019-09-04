@@ -51,7 +51,7 @@
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Mission & Vision</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Policies</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Floor Plans</a>
-                    <a class="dropdown-item" href="#" style="text-decoration: line-through;">York Children's Literature Festival</a>
+                    <a class="dropdown-item" href="york.php">York Children's Literature Festival</a>
                     <a class="dropdown-item" href="http://libguides.anderson.edu/c.php?g=710789" target="_blank">Special Collections</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="contact.php">Contact a Librarian</a>
