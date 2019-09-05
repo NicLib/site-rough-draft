@@ -282,6 +282,11 @@ footer{
     text-align: center;
 }
 
+.york-schedule tfoot{
+    font-size: .5em;
+    font-style: italic;
+}
+
 
 /* IDs */
 #databasesBox{
