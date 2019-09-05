@@ -26,99 +26,71 @@
 
                         <div class="york-presenters">
                             <h3 class="york-presenters-title">2019 Presenters</h3>
-                            <div class="d-flex justify-content-center">
-                                <div class="york-presenter-profile flex-fill justify-content-center">
+                            <div class="d-flex justify-content-center flex-wrap">
+                                <div class="york-presenter-profile p-2 flex-fill justify-content-center">
                                     <a href="http://www.shannonisteaching.com" target="_blank"><img alt="Shannon Anderson" src="/drupal/drupal-8/sites/default/files/inline-images/Shannon%20Anderson%202019.png"/></a>
                                     <h4 class="york-presenter-profile-name"><a href="http://www.shannonisteaching.com" target="_blank">Shannon Anderson</a></h4>
                                 </div>
-                                <div class="york-presenter-profile flex-fill justify-content-center">
+                                <div class="york-presenter-profile p-2 flex-fill justify-content-center">
                                     <a href="https://www.noblemania.com" target="_blank"><img alt="Marc Tyler Nobleman" src="/drupal/drupal-8/sites/default/files/inline-images/Marc%20Tyler%20Nobleman.png"/></a>
                                     <h4 class="york-presenter-profile-name"><a href="https://www.noblemania.com" target="_blank">Marc Tyler Nobleman</a></h4>
                                 </div>
-                                <div class="york-presenter-profile flex-fill justify-content-center">
+                                <div class="york-presenter-profile p-2 flex-fill justify-content-center">
                                     <a href="http://christinawald.com" target="_blank"><img alt="Christina Wald" src="/drupal/drupal-8/sites/default/files/inline-images/Christina%20Wald.jpg"/></a>
                                     <h4 class="york-presenter-profile-name"><a href="http://christinawald.com" target="_blank">Christina Wald</a></h4>
                                 </div>
                             </div>
                         </div>
 
-                        <!--<div style="clear:both">
-                            <table align="center" cellpadding="5" cellspacing="5">
-	                            <tbody>
-		                            <tr>
-			                            <td><a href="http://www.shannonisteaching.com/"><img alt="Shannon Anderson" data-align="center" data-entity-type="file" data-entity-uuid="53216c41-d55e-4f6d-9d38-963dace04b7e" src="/drupal/drupal-8/sites/default/files/inline-images/Shannon%20Anderson%202019.png" /></a>
-			                                <p>&nbsp;</p>
-			                            </td>
-			                            <td><a href="https://www.noblemania.com"><img alt="Marc Tyler Nobleman" data-align="center" data-entity-type="file" data-entity-uuid="f6117531-fb1c-4c80-8a3e-ee57826ffa59" src="/drupal/drupal-8/sites/default/files/inline-images/Marc%20Tyler%20Nobleman.png" /></a>
-			                                <p>&nbsp;</p>
-			                            </td>
-			                            <td><a href="http://christinawald.com"><img alt="Christina Wald" data-align="center" data-entity-type="file" data-entity-uuid="b047bb88-2287-47b9-806b-5ba661e73df4" src="/drupal/drupal-8/sites/default/files/inline-images/Christina%20Wald.jpg" /></a>
-			                                <p>&nbsp;</p>
-			                            </td>
-		                            </tr>
-		                            <tr>
-			                            <td class="text-align-center">
-			                                <h3><u><a href="http://www.shannonisteaching.com/">Shannon Anderson</a></u></h3>
-			                            </td>
-			                            <td class="text-align-center">
-			                                <h3><u><a href="https://www.noblemania.com">Marc Tyler Nobleman</a></u></h3>
-			                            </td>
-			                            <td class="text-align-center">
-			                                <h3><u><a href="http://christinawald.com">Christina Wald</a></u></h3>
-			                            </td>
-		                            </tr>
-	                            </tbody>
-                            </table>
-                        </div>
-                        <table align="center" cellpadding="5" cellspacing="5" class="table table-striped">
+                        <table class="table table-striped flex-fill york-schedule">
 	                        <thead>
-		                        <tr colspan="2">
+		                        <tr>
 			                        <th colspan="2">
-			                            <h4 class="text-align-center"><u>Schedule for the Day</u></h4>
+			                            <h4><u>Schedule for the Day</u></h4>
 			                        </th>
 		                        </tr>
 	                        </thead>
 	                        <tfoot>
 		                        <tr>
-			                        <td colspan="2" style="text-align: center; white-space: nowrap;">*These workshops qualify for Professional Growth Points (PGP)<br />
+			                        <td colspan="2">*These workshops qualify for Professional Growth Points (PGP)<br />
 			                            and LEUs for librarians (1 each)</td>
 		                        </tr>
 	                        </tfoot>
 	                        <tbody>
 		                        <tr>
-			                        <td style="text-align: center;">8:00 - 8:20a</td>
-			                        <td style="text-align: center;">Check-in and Light Refreshments</td>
+			                        <td>8:00 - 8:20a</td>
+			                        <td>Check-in and Light Refreshments</td>
 		                        </tr>
 		                        <tr>
-			                        <td style="text-align: center;">8:20 - 8:30</td>
-			                        <td style="text-align: center;">Welcome &amp; Introductions</td>
+			                        <td>8:20 - 8:30</td>
+			                        <td>Welcome &amp; Introductions</td>
 		                        </tr>
 		                        <tr>
-			                        <td style="text-align: center;">8:30 - 9:30</td>
-			                        <td style="text-align: center;">Christina Wald, illustrator*</td>
+			                        <td>8:30 - 9:30</td>
+			                        <td>Christina Wald, illustrator*</td>
 		                        </tr>
 		                        <tr>
-			                        <td style="text-align: center;">9:30 - 9:45</td>
-			                        <td style="text-align: center;">Break</td>
+			                        <td>9:30 - 9:45</td>
+			                        <td>Break</td>
 		                        </tr>
 		                        <tr>
-			                        <td style="text-align: center;">9:45 - 10:45</td>
-			                        <td style="text-align: center;">Shannon Anderson, author*</td>
+			                        <td>9:45 - 10:45</td>
+			                        <td>Shannon Anderson, author*</td>
 		                        </tr>
 		                        <tr>
-			                        <td style="text-align: center;">10:45 - 11:00</td>
-			                        <td style="text-align: center;">Break</td>
+			                        <td>10:45 - 11:00</td>
+			                        <td>Break</td>
 		                        </tr>
 		                        <tr>
-			                        <td style="text-align: center;">11:00 - 12:00p</td>
-			                        <td style="text-align: center;">Mark Tyler Nobleman, author*</td>
+			                        <td>11:00 - 12:00p</td>
+			                        <td>Mark Tyler Nobleman, author*</td>
 		                        </tr>
 		                        <tr>
-			                        <td style="text-align: center;">12:00 - 12:30</td>
-			                        <td style="text-align: center;">Book Sales and Signings</td>
+			                        <td>12:00 - 12:30</td>
+			                        <td>Book Sales and Signings</td>
 		                        </tr>
 	                        </tbody>
-                        </table>-->
+                        </table>
                     </div>
                 </section>
             </div>
