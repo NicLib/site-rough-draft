@@ -18,7 +18,7 @@
 
                     <div class="contentContent">
                         <div>
-                            <p class="justify-content-center"><img class="img-fluid banner-img" alt="Elizabeth York Children's Literature Festival" data-align="left" data-entity-type="file" data-entity-uuid="04ae7a2c-ac7d-4a12-9e88-da9c8182c4e5" src="assets/images/York-Childrens-Literature-Festival-banner.png" /></p>
+                            <p class="justify-content-center"><img class="img-fluid banner-img" alt="Elizabeth York Children's Literature Festival" data-align="left" data-entity-type="file" data-entity-uuid="04ae7a2c-ac7d-4a12-9e88-da9c8182c4e5" src="assets/images/2019-York-Childrens-Literature-Festival-banner.png" /></p>
                             <div>
                                 <p class="text-align-center">The 2019 Elizabeth York Children's Literature Festival will be held in the <a href="https://map.concept3d.com/?id=1087#!m/222407" target="_blank">Hartung Hall room 101</a> and is free and open to the public.</p>
                             </div>
