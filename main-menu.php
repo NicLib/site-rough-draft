@@ -36,9 +36,14 @@
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Archives</a>
                 <div class="dropdown-menu dropdown-menu-lg-right" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="archives.php">Archives Home Page</a>
-                    <a class="dropdown-item" href="#" style="text-decoration: line-through;">AU & CHOG Digital Archive</a>
-                    <a class="dropdown-item" href="finding-aids.php">Finding Aids</a>
                     <a class="dropdown-item" href="#" style="text-decoration: line-through;">Research & Copies Information</a>
+                    <div class="dropdown-divider"></div>
+                    <h5 class="dropdown-item"><b>Online Collections and Exhibits</b></h5>
+                    <a class="dropdown-item" href="#" style="text-decoration: line-through;">Gospel Trumpet Collection</a>
+                    <a class="dropdown-item" href="#" style="text-decoration: line-through;">Church of God Yearbooks</a>
+                    <a class="dropdown-item" href="#" style="text-decoration: line-through;">100 Years of AU Campus Buildings Exhibit</a>
+                    <a class="dropdown-item" href="#" style="text-decoration: line-through;">AU & CHOG Periodicals Exhibit</a>
+                    <a class="dropdown-item" href="#" style="text-decoration: line-through;">AU Undergraduate Scholarship</a>
                     <div class="dropdown-divider"></div>
                     <a class="dropdown-item" href="contact.php">Contact a Librarian</a>
                 </div>
