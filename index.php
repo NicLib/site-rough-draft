@@ -21,14 +21,15 @@
                 </section>
 
                 <!-- Databases/LibGuides -->
-                <!-- LibGuides -->
-                <section class="box">
-                    <a href="https://libguides.anderson.edu" target="_blank"><div id="researchBox"><h2 class="buttonTitle">RESEARCH GUIDES</h2></div></a>
-                </section>
 
                 <!-- Databases -->
                 <section class="box">
                     <a href="https://libguides.anderson.edu/az.php" target="_blank"><div id="databasesBox"><h2 class="buttonTitle">FIND ARTICLES</h2></div></a>
+                </section>
+
+                <!-- LibGuides -->
+                <section class="box">
+                    <a href="https://libguides.anderson.edu" target="_blank"><div id="researchBox"><h2 class="buttonTitle">RESEARCH GUIDES</h2></div></a>
                 </section>
 
                 <!-- Library News -->
