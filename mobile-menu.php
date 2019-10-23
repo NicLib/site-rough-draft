@@ -7,6 +7,7 @@
                 <li><a href="https://libguides.anderson.edu" target="_blank">Research Guides</a></li>
                 <li><a href="https://libguides.anderson.edu/az.php" target="_blank">Find Articles</a></li>
                 <li><a href="https://anderson.on.worldcat.org/courseReserves/landing" target="_blank">Reserves for Classes</a></li>
+                <li><a href="undergrad-scholarship.php">Undergraduate Scholarship</a></li>
             </ul>
         </li>
         <li class="mobile-menu-item">Faculty <span class="menu-expand-icon"><i class="fas fa-caret-down"></i></span>

@@ -12,15 +12,16 @@
         <main>
             <div class="container">
                 <nav>
-                    <a href="index.php">Home</a> / Undergraduate Scholarship Collection
+                    <a href="index.php">Home</a> / Undergraduate Scholarship
                 </nav>
                 <section class="content">
-                    <h2 class="contentTitle">Undergraduate Scholarship Collection</h2>
+                    <h2 class="contentTitle">Undergraduate Scholarship</h2>
                     <div class="contentImage">
-                        <div style="width: 100%; height: 20em; background-color: black;"></div>
+                        <div>
+                            <p class="justify-content-center"><img class="img-fluid banner-img" alt="Elizabeth York Children's Literature Festival" data-align="left" data-entity-type="file" data-entity-uuid="04ae7a2c-ac7d-4a12-9e88-da9c8182c4e5" src="assets/images/undergrad-scholarship-banner.png" /></p>
                     </div>
                     <div class="contentContent">
-                        <p>At <a href="https://anderson.edu" target="_blank">Anderson University</a> we don't believe that learning -- or faith -- is dry, stuffy, or stale. Anderson student question... investigate... discover... interpret... arrive at new conclusions... share. Students roll up their sleeves and fully engage with the messy, sometimes paradoxical, world of research and the creative process. Our esteemed faculty members come alongside and mentor throughout the journey.</p>
+                        <p>At <a href="https://anderson.edu" target="_blank">Anderson University</a> we don't believe that learning -- or faith -- is dry, stuffy, or stale. Anderson students question... investigate... discover... interpret... arrive at new conclusions... share. Students roll up their sleeves and fully engage with the messy, sometimes paradoxical, world of research and the creative process. Our esteemed faculty members come alongside and mentor throughout the journey.</p>
                         <p>The <a href="https://palni.contentdm.oclc.org/digital/collection/p15705coll17/search" target="_blank">AU Undergraduate Scholarship</a> collection showcases the "share" part of the process. Here you will find Senior Seminar Papers; Honors Theses; Senior Chapel Speeches; and abstracts of poster sessions from "Scholars Day."</p>
                     </div>
                     <div class="contentList">
