@@ -27,11 +27,12 @@
                             </div>
                         </div>
                         <div class="box">
-                            <?php include 'assets/contact-form.php' ?>
+                            <!--<?php include 'assets/contact-form.php' ?>-->
+                            <a class="btn btn-block btn-lg contact-buttons" href="mailto:jcbell@anderson.edu">Email a Librarian</a>
+                            <a class="btn btn-block btn-lg contact-buttons" href="sms:17652039280">Text a Librarian<br/>765-203-9280</a>
+                            <a class="btn btn-block btn-lg contact-buttons" href="tel:17656414280">Call the InfoDesk<br/>765-641-4280</a>
                         </div>
-                        <p><em>Not sure how to display calling and texting options</em><p>
                     </div>
-
                 </section>
             </div>
         </main>
